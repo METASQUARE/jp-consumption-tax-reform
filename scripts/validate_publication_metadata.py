@@ -39,7 +39,7 @@ def validate(root: Path = ROOT) -> list[str]:
     require_tokens(citation, (
         "cff-version: 1.2.0",
         'alias: "xmeta"',
-        'repository-code: "https://github.com/xmeta/jp-consumption-tax-reform"',
+        'repository-code: "https://github.com/METASQUARE/jp-consumption-tax-reform"',
     ), "CITATION.cff", errors)
     require_tokens(licensing, (
         "NO_BLANKET_PUBLIC_LICENSE_GRANTED",

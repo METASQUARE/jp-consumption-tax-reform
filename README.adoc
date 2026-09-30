@@ -62,7 +62,7 @@ python scripts/reproduce.py clean-room
 == Current high-value blocker
 
 VATのobjective-rank household incidence bridgeは、2024 NSFCW `DS51` ↔ `DS52` のprovider-approved same-household joinが未確認であるため未識別を維持する。
-作業ownerは https://github.com/xmeta/jp-consumption-tax-reform/issues/94[Issue #94]。provider確認なしにjoin keyを推測しない。
+作業ownerは https://github.com/METASQUARE/jp-consumption-tax-reform/issues/94[Issue #94]。provider確認なしにjoin keyを推測しない。
 
 その他の研究優先順位は `data/research_priority_backlog.csv`、作業順は https://github.com/users/xmeta/projects/1[GitHub Project #1] とmilestone `M3 Research governance and publication readiness` を参照する。
 
